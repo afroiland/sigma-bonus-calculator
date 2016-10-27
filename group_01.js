@@ -20,7 +20,7 @@ function originalPercentage(employee){ //caculates initial bonus percent
    return 0;
  }
 }
-
+console.log("hello");
  function bonusCalc(employee) { //salary with bonus included
     var bonusPercentage = [];
     if(employee[3] == 2){
